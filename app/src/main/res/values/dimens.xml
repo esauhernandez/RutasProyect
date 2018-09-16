@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="edittext_textsize_login">22sp</dimen>
+    <dimen name="padding_horizontal_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="edittext_margin_createaccount">10dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="cornerradius_cardview">4dp</dimen>
+    <dimen name="textsize_username_card">25sp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="textsize_likenumberdetail">15sp</dimen>
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="textsize_usernameprofile">30dp</dimen>
+    <dimen name="marginleft_usernametoolbarprofile">72dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="imgsize_login">150dp</dimen>
+
+</resources>

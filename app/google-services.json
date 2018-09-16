@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346430261298",
+    "firebase_url": "https://rutas-552f6.firebaseio.com",
+    "project_id": "rutas-552f6",
+    "storage_bucket": "rutas-552f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346430261298:android:831ab2caa6548b60",
+        "android_client_info": {
+          "package_name": "com.ehp.rutas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346430261298-slplgl47do748dbmcn4irre0fu6l8lil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZC_OtyXEJXuNCEZ9lCUOQA6FRMSDRotc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
